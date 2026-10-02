@@ -1,0 +1,871 @@
+{
+  "task_data": {
+    "episodes": [
+      {
+        "episode_id": 0,
+        "scene_id": "hm3d/val/00832-qyAac8rV8Zk/qyAac8rV8Zk.basis.glb",
+        "scene_dataset_config": "hm3d/val/hm3d_annotated_val_basis.scene_dataset_config.json",
+        "tasks": [
+          [
+            "073-c_lego_duplo",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode00_073-c_lego_duplo"
+          ],
+          [
+            "012_strawberry",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode00_012_strawberry"
+          ],
+          [
+            "004_sugar_box",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode00_004_sugar_box"
+          ],
+          [
+            "069_drinkware",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode01_069_drinkware"
+          ],
+          [
+            "044_flat_screwdriver",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode01_044_flat_screwdriver"
+          ],
+          [
+            "002_master_chef_can",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode01_002_master_chef_can"
+          ],
+          [
+            "035_power_drill",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode02_035_power_drill"
+          ],
+          [
+            "004_sugar_box",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode02_004_sugar_box"
+          ],
+          [
+            "048_hammer",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode03_048_hammer"
+          ],
+          [
+            "065-c_cups",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode03_065-c_cups"
+          ],
+          [
+            "012_strawberry",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode03_012_strawberry"
+          ]
+        ]
+      }
+    ],
+    "goals": {
+      "qyAac8rV8Zk.basis.glb_episode00_073-c_lego_duplo": [
+        {
+          "object_category": "073-c_lego_duplo",
+          "object_id": "073-c_lego_duplo_1067",
+          "position": [
+            -9.165393829345703,
+            0.5415741205215454,
+            1.0000383853912354
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -8.767937660217285,
+                  0.01920294761657715,
+                  1.2712481021881104
+                ],
+                "rotation": [
+                  0,
+                  0.4670950174331665,
+                  0,
+                  0.8842071294784546
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.844300270080566,
+                  0.01920294761657715,
+                  0.5134870409965515
+                ],
+                "rotation": [
+                  0,
+                  0.9577664732933044,
+                  0,
+                  0.28754711151123047
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.844300270080566,
+                  0.01920294761657715,
+                  0.5134870409965515
+                ],
+                "rotation": [
+                  0,
+                  0.9577664732933044,
+                  0,
+                  0.28754711151123047
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode00_012_strawberry": [
+        {
+          "object_category": "012_strawberry",
+          "object_id": "012_strawberry_1013",
+          "position": [
+            -8.171791076660156,
+            0.5560466647148132,
+            0.6939353942871094
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -7.805863380432129,
+                  0.01920294761657715,
+                  0.8700566291809082
+                ],
+                "rotation": [
+                  0,
+                  0.532126247882843,
+                  0,
+                  0.8466650247573853
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.743133544921875,
+                  0.01920294761657715,
+                  0.5922593474388123
+                ],
+                "rotation": [
+                  0,
+                  -0.7665530443191528,
+                  0,
+                  0.6421809792518616
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.415328025817871,
+                  0.01920294761657715,
+                  1.1867470741271973
+                ],
+                "rotation": [
+                  0,
+                  -0.2274807244539261,
+                  0,
+                  0.9737825989723206
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode00_004_sugar_box": [
+        {
+          "object_category": "004_sugar_box",
+          "object_id": "004_sugar_box_1003",
+          "position": [
+            -5.2390971183776855,
+            1.2619627714157104,
+            -0.5687322020530701
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -5.837444305419922,
+                  0.01920294761657715,
+                  -0.7008188962936401
+                ],
+                "rotation": [
+                  0,
+                  -0.7796033024787903,
+                  0,
+                  0.6262736320495605
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -5.861752033233643,
+                  0.01920294761657715,
+                  -0.8413694500923157
+                ],
+                "rotation": [
+                  0,
+                  -0.8369879126548767,
+                  0,
+                  0.5472213625907898
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -5.861752033233643,
+                  0.01920294761657715,
+                  -0.8413694500923157
+                ],
+                "rotation": [
+                  0,
+                  -0.8369879126548767,
+                  0,
+                  0.5472213625907898
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode01_069_drinkware": [
+        {
+          "object_category": "069_drinkware",
+          "object_id": "069_drinkware_1061",
+          "position": [
+            -8.316802024841309,
+            0.9957652688026428,
+            4.899346351623535
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -8.122798919677734,
+                  0.01920294761657715,
+                  4.426993370056152
+                ],
+                "rotation": [
+                  0,
+                  0.9810757040977478,
+                  0,
+                  0.19362445175647736
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.580208778381348,
+                  0.01920294761657715,
+                  4.441967964172363
+                ],
+                "rotation": [
+                  0,
+                  -0.9660660028457642,
+                  0,
+                  0.25829535722732544
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.580208778381348,
+                  0.01920294761657715,
+                  4.441967964172363
+                ],
+                "rotation": [
+                  0,
+                  -0.9660660028457642,
+                  0,
+                  0.25829535722732544
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode01_044_flat_screwdriver": [
+        {
+          "object_category": "044_flat_screwdriver",
+          "object_id": "044_flat_screwdriver_1041",
+          "position": [
+            -7.447749614715576,
+            0.9794902205467224,
+            4.632987022399902
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -7.7185869216918945,
+                  0.01920294761657715,
+                  4.376205921173096
+                ],
+                "rotation": [
+                  0,
+                  -0.9187014698982239,
+                  0,
+                  0.3949526846408844
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -6.940547943115234,
+                  0.01920294761657715,
+                  4.470272064208984
+                ],
+                "rotation": [
+                  0,
+                  0.8079215884208679,
+                  0,
+                  0.5892900228500366
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -7.269432544708252,
+                  0.01920294761657715,
+                  4.153683185577393
+                ],
+                "rotation": [
+                  0,
+                  0.984184980392456,
+                  0,
+                  0.1771438717842102
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode01_002_master_chef_can": [
+        {
+          "object_category": "002_master_chef_can",
+          "object_id": "002_master_chef_can_1001",
+          "position": [
+            -3.783461570739746,
+            1.0572494268417358,
+            -0.03675367310643196
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -4.319360733032227,
+                  0.01920294761657715,
+                  -0.07333773374557495
+                ],
+                "rotation": [
+                  0,
+                  -0.7307900190353394,
+                  0,
+                  0.6826022863388062
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -4.319360733032227,
+                  0.01920294761657715,
+                  -0.07333773374557495
+                ],
+                "rotation": [
+                  0,
+                  -0.7307900190353394,
+                  0,
+                  0.6826022863388062
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -4.319360733032227,
+                  0.01920294761657715,
+                  -0.07333773374557495
+                ],
+                "rotation": [
+                  0,
+                  -0.7307900190353394,
+                  0,
+                  0.6826022863388062
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode02_035_power_drill": [
+        {
+          "object_category": "035_power_drill",
+          "object_id": "035_power_drill_1034",
+          "position": [
+            -9.298402786254883,
+            0.8852357864379883,
+            5.022850513458252
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -9.155640602111816,
+                  0.01920294761657715,
+                  4.333249568939209
+                ],
+                "rotation": [
+                  0,
+                  0.9947955012321472,
+                  0,
+                  0.10189174115657806
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -9.45518970489502,
+                  0.01920294761657715,
+                  4.437294006347656
+                ],
+                "rotation": [
+                  0,
+                  -0.9914565682411194,
+                  0,
+                  0.13043734431266785
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.580208778381348,
+                  0.01920294761657715,
+                  4.441967964172363
+                ],
+                "rotation": [
+                  0,
+                  0.9024585485458374,
+                  0,
+                  0.4307766556739807
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode02_004_sugar_box": [
+        {
+          "object_category": "004_sugar_box",
+          "object_id": "004_sugar_box_1003",
+          "position": [
+            -7.969536304473877,
+            1.014813780784607,
+            3.607194662094116
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -8.144336700439453,
+                  0.01920294761657715,
+                  3.9845352172851562
+                ],
+                "rotation": [
+                  0,
+                  -0.2152092158794403,
+                  0,
+                  0.9765679836273193
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -7.659242153167725,
+                  0.01920294761657715,
+                  4.007016181945801
+                ],
+                "rotation": [
+                  0,
+                  0.3240361511707306,
+                  0,
+                  0.9460446834564209
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.002440452575684,
+                  0.01920294761657715,
+                  4.052654266357422
+                ],
+                "rotation": [
+                  0,
+                  -0.03685750812292099,
+                  0,
+                  0.9993205070495605
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode03_048_hammer": [
+        {
+          "object_category": "048_hammer",
+          "object_id": "048_hammer_1044",
+          "position": [
+            -3.0979509353637695,
+            1.0827727317810059,
+            -0.5067643523216248
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -3.3537673950195312,
+                  0.01920294761657715,
+                  -0.8147918581962585
+                ],
+                "rotation": [
+                  0,
+                  -0.9405564069747925,
+                  0,
+                  0.3396375775337219
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -2.580566883087158,
+                  0.01920294761657715,
+                  -0.48612838983535767
+                ],
+                "rotation": [
+                  0,
+                  0.6928731799125671,
+                  0,
+                  0.7210594415664673
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -2.921355724334717,
+                  0.09157910197973251,
+                  -0.8699084520339966
+                ],
+                "rotation": [
+                  0,
+                  0.9745005965232849,
+                  0,
+                  0.22438496351242065
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode03_065-c_cups": [
+        {
+          "object_category": "065-c_cups",
+          "object_id": "065-c_cups_1056",
+          "position": [
+            -7.710451126098633,
+            1.164819598197937,
+            3.1828339099884033
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -7.313137054443359,
+                  0.01920294761657715,
+                  2.2354297637939453
+                ],
+                "rotation": [
+                  0,
+                  0.9803542494773865,
+                  0,
+                  0.197244793176651
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -7.046667098999023,
+                  0.01920294761657715,
+                  3.9112305641174316
+                ],
+                "rotation": [
+                  0,
+                  0.36115869879722595,
+                  0,
+                  0.9325043559074402
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -8.434965133666992,
+                  0.01920294761657715,
+                  2.31315279006958
+                ],
+                "rotation": [
+                  0,
+                  -0.94029700756073,
+                  0,
+                  0.3403549790382385
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode03_012_strawberry": [
+        {
+          "object_category": "012_strawberry",
+          "object_id": "012_strawberry_1013",
+          "position": [
+            -6.077658176422119,
+            0.9817491769790649,
+            4.642392635345459
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -6.017451286315918,
+                  0.01920294761657715,
+                  4.452474594116211
+                ],
+                "rotation": [
+                  0,
+                  0.988242506980896,
+                  0,
+                  0.15289443731307983
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -6.017451286315918,
+                  0.01920294761657715,
+                  4.452474594116211
+                ],
+                "rotation": [
+                  0,
+                  0.988242506980896,
+                  0,
+                  0.15289443731307983
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -6.017451286315918,
+                  0.01920294761657715,
+                  4.452474594116211
+                ],
+                "rotation": [
+                  0,
+                  0.988242506980896,
+                  0,
+                  0.15289443731307983
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "episode_summaries": [
+        {
+          "episode_index": 0,
+          "start_target_index": 0,
+          "end_target_index": 2
+        },
+        {
+          "episode_index": 1,
+          "start_target_index": 3,
+          "end_target_index": 5
+        },
+        {
+          "episode_index": 2,
+          "start_target_index": 6,
+          "end_target_index": 7
+        },
+        {
+          "episode_index": 3,
+          "start_target_index": 8,
+          "end_target_index": 10
+        }
+      ],
+      "episode_start_agent_states": [
+        {
+          "episode_index": 0,
+          "agent_state": {
+            "position": [
+              -1.2788947820663452,
+              0.01920294761657715,
+              0.776635468006134
+            ],
+            "rotation": [
+              0,
+              0.17961664497852325,
+              0,
+              0.9837366938591003
+            ]
+          }
+        },
+        {
+          "episode_index": 1,
+          "agent_state": {
+            "position": [
+              -7.623608112335205,
+              0.01920294761657715,
+              -0.5776464939117432
+            ],
+            "rotation": [
+              0,
+              -0.9492781162261963,
+              0,
+              0.31443774700164795
+            ]
+          }
+        },
+        {
+          "episode_index": 2,
+          "agent_state": {
+            "position": [
+              -0.8499815464019775,
+              0.01920294761657715,
+              -0.03736000135540962
+            ],
+            "rotation": [
+              0,
+              -0.3174835741519928,
+              0,
+              0.9482637643814087
+            ]
+          }
+        },
+        {
+          "episode_index": 3,
+          "agent_state": {
+            "position": [
+              -9.281118392944336,
+              0.01920294761657715,
+              2.1147265434265137
+            ],
+            "rotation": [
+              0,
+              0.18165183067321777,
+              0,
+              0.9833629131317139
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "episode_scene_configs": [
+    {
+      "stage": "after_episode",
+      "episode_index": 0,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_00_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 1,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_01_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 2,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_02_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 3,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_03_scene_config.json"
+    }
+  ],
+  "episode_mid_object_states": [
+    {
+      "stage": "initial",
+      "episode_index": null,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 0,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 1,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 2,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 3,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    }
+  ]
+}

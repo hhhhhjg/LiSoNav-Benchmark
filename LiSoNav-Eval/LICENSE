@@ -1,0 +1,21 @@
+LiSoNav-Eval License Notice
+
+Copyright (c) 2026 LiSoNav-Eval authors
+
+The original LiSoNav-Eval sequence metadata and annotations in this directory
+are licensed under the Creative Commons Attribution-NonCommercial 4.0
+International Public License (CC BY-NC 4.0).
+
+Canonical license deed:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Full legal code:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+You may share and adapt the licensed material with attribution, for
+non-commercial purposes only, subject to the complete license terms above.
+
+This license applies only to original LiSoNav-Eval metadata and annotations.
+It does not relicense HM3D scenes, YCB or HSSD object assets, reference images,
+software code, model weights, or any other third-party material. Those items
+retain their respective upstream licenses and access terms.

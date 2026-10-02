@@ -1,0 +1,808 @@
+{
+  "task_data": {
+    "episodes": [
+      {
+        "episode_id": 0,
+        "scene_id": "hm3d/val/00832-qyAac8rV8Zk/qyAac8rV8Zk.basis.glb",
+        "scene_dataset_config": "hm3d/val/hm3d_annotated_val_basis.scene_dataset_config.json",
+        "tasks": [
+          [
+            "030_fork",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode00_030_fork"
+          ],
+          [
+            "036_wood_block",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode00_036_wood_block"
+          ],
+          [
+            "057_racquetball",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode01_057_racquetball"
+          ],
+          [
+            "021_toy",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode01_021_toy"
+          ],
+          [
+            "036_wood_block",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode01_036_wood_block"
+          ],
+          [
+            "057_racquetball",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode02_057_racquetball"
+          ],
+          [
+            "036_wood_block",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode02_036_wood_block"
+          ],
+          [
+            "081_toy_duck",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode03_081_toy_duck"
+          ],
+          [
+            "021_toy",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode03_021_toy"
+          ],
+          [
+            "057_racquetball",
+            "object",
+            "qyAac8rV8Zk.basis.glb_episode03_057_racquetball"
+          ]
+        ]
+      }
+    ],
+    "goals": {
+      "qyAac8rV8Zk.basis.glb_episode00_030_fork": [
+        {
+          "object_category": "030_fork",
+          "object_id": "030_fork_1029",
+          "position": [
+            0.9018922448158264,
+            -2.1829333305358887,
+            -1.254701018333435
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.6283155679702759,
+                  -2.580796957015991,
+                  -0.8407450318336487
+                ],
+                "rotation": [
+                  0,
+                  -0.28786247968673706,
+                  0,
+                  0.9576717615127563
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.5128152370452881,
+                  -2.580796957015991,
+                  -1.6553579568862915
+                ],
+                "rotation": [
+                  0,
+                  -0.9266601204872131,
+                  0,
+                  0.3759002387523651
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.8473368883132935,
+                  -2.580796957015991,
+                  -0.650412380695343
+                ],
+                "rotation": [
+                  0,
+                  -0.04500290006399155,
+                  0,
+                  0.9989868402481079
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode00_036_wood_block": [
+        {
+          "object_category": "036_wood_block",
+          "object_id": "036_wood_block_1035",
+          "position": [
+            -0.55906081199646,
+            -2.219236135482788,
+            -1.373931646347046
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -0.06283138692378998,
+                  -2.580796957015991,
+                  -1.2171828746795654
+                ],
+                "rotation": [
+                  0,
+                  0.5910966396331787,
+                  0,
+                  0.8066007494926453
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.10007266700267792,
+                  -2.580796957015991,
+                  -1.7337586879730225
+                ],
+                "rotation": [
+                  0,
+                  0.8991568684577942,
+                  0,
+                  0.437626451253891
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.2177552580833435,
+                  -2.580796957015991,
+                  -1.0011565685272217
+                ],
+                "rotation": [
+                  0,
+                  0.3622477948665619,
+                  0,
+                  0.9320818185806274
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode01_057_racquetball": [
+        {
+          "object_category": "057_racquetball",
+          "object_id": "057_racquetball_1051",
+          "position": [
+            0.9777622222900391,
+            -2.1811203956604004,
+            -1.3003737926483154
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.506359875202179,
+                  -2.580796957015991,
+                  -1.4434946775436401
+                ],
+                "rotation": [
+                  0,
+                  -0.8032784461975098,
+                  0,
+                  0.5956037044525146
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.6283155679702759,
+                  -2.580796957015991,
+                  -0.8407450318336487
+                ],
+                "rotation": [
+                  0,
+                  -0.319331556558609,
+                  0,
+                  0.9476430416107178
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.6309420466423035,
+                  -2.580796957015991,
+                  -1.664661169052124
+                ],
+                "rotation": [
+                  0,
+                  -0.9285088181495667,
+                  0,
+                  0.37131035327911377
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode01_021_toy": [
+        {
+          "object_category": "021_toy",
+          "object_id": "021_toy_1023",
+          "position": [
+            1.050751805305481,
+            -2.1802496910095215,
+            -1.069222331047058
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.5907078981399536,
+                  -2.580796957015991,
+                  -1.0506548881530762
+                ],
+                "rotation": [
+                  0,
+                  -0.6927021741867065,
+                  0,
+                  0.7212237119674683
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  1.0091849565505981,
+                  -2.580796957015991,
+                  -0.5825240612030029
+                ],
+                "rotation": [
+                  0,
+                  -0.042586635798215866,
+                  0,
+                  0.9990927577018738
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  1.0091849565505981,
+                  -2.580796957015991,
+                  -0.5825240612030029
+                ],
+                "rotation": [
+                  0,
+                  -0.042586635798215866,
+                  0,
+                  0.9990927577018738
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode01_036_wood_block": [
+        {
+          "object_category": "036_wood_block",
+          "object_id": "036_wood_block_1035",
+          "position": [
+            -0.55906081199646,
+            -2.219236135482788,
+            -1.373931646347046
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -0.06283138692378998,
+                  -2.580796957015991,
+                  -1.2171828746795654
+                ],
+                "rotation": [
+                  0,
+                  0.5910966396331787,
+                  0,
+                  0.8066007494926453
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.10007266700267792,
+                  -2.580796957015991,
+                  -1.7337586879730225
+                ],
+                "rotation": [
+                  0,
+                  0.8991568684577942,
+                  0,
+                  0.437626451253891
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.2177552580833435,
+                  -2.580796957015991,
+                  -1.0011565685272217
+                ],
+                "rotation": [
+                  0,
+                  0.3622477948665619,
+                  0,
+                  0.9320818185806274
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode02_057_racquetball": [
+        {
+          "object_category": "057_racquetball",
+          "object_id": "057_racquetball_1051",
+          "position": [
+            0.9777622222900391,
+            -2.1811203956604004,
+            -1.3003737926483154
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.506359875202179,
+                  -2.580796957015991,
+                  -1.4434946775436401
+                ],
+                "rotation": [
+                  0,
+                  -0.8032784461975098,
+                  0,
+                  0.5956037044525146
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.6283155679702759,
+                  -2.580796957015991,
+                  -0.8407450318336487
+                ],
+                "rotation": [
+                  0,
+                  -0.319331556558609,
+                  0,
+                  0.9476430416107178
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.6309420466423035,
+                  -2.580796957015991,
+                  -1.664661169052124
+                ],
+                "rotation": [
+                  0,
+                  -0.9285088181495667,
+                  0,
+                  0.37131035327911377
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode02_036_wood_block": [
+        {
+          "object_category": "036_wood_block",
+          "object_id": "036_wood_block_1035",
+          "position": [
+            -0.55906081199646,
+            -2.219236135482788,
+            -1.373931646347046
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -0.06283138692378998,
+                  -2.580796957015991,
+                  -1.2171828746795654
+                ],
+                "rotation": [
+                  0,
+                  0.5910966396331787,
+                  0,
+                  0.8066007494926453
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.10007266700267792,
+                  -2.580796957015991,
+                  -1.7337586879730225
+                ],
+                "rotation": [
+                  0,
+                  0.8991568684577942,
+                  0,
+                  0.437626451253891
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.2177552580833435,
+                  -2.580796957015991,
+                  -1.0011565685272217
+                ],
+                "rotation": [
+                  0,
+                  0.3622477948665619,
+                  0,
+                  0.9320818185806274
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode03_081_toy_duck": [
+        {
+          "object_category": "081_toy_duck",
+          "object_id": "081_toy_duck_1076",
+          "position": [
+            0.8667719960212708,
+            -2.1776020526885986,
+            -1.307528018951416
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.6309420466423035,
+                  -2.580796957015991,
+                  -1.664661169052124
+                ],
+                "rotation": [
+                  0,
+                  -0.957726001739502,
+                  0,
+                  0.28768190741539
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.8473368883132935,
+                  -2.580796957015991,
+                  -0.650412380695343
+                ],
+                "rotation": [
+                  0,
+                  -0.014783346094191074,
+                  0,
+                  0.9998907446861267
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.4245857000350952,
+                  -2.580796957015991,
+                  -0.9532464146614075
+                ],
+                "rotation": [
+                  0,
+                  -0.4328579306602478,
+                  0,
+                  0.9014621376991272
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode03_021_toy": [
+        {
+          "object_category": "021_toy",
+          "object_id": "021_toy_1023",
+          "position": [
+            1.050751805305481,
+            -2.1802496910095215,
+            -1.069222331047058
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.5907078981399536,
+                  -2.580796957015991,
+                  -1.0506548881530762
+                ],
+                "rotation": [
+                  0,
+                  -0.6927021741867065,
+                  0,
+                  0.7212237119674683
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  1.0091849565505981,
+                  -2.580796957015991,
+                  -0.5825240612030029
+                ],
+                "rotation": [
+                  0,
+                  -0.042586635798215866,
+                  0,
+                  0.9990927577018738
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  1.0091849565505981,
+                  -2.580796957015991,
+                  -0.5825240612030029
+                ],
+                "rotation": [
+                  0,
+                  -0.042586635798215866,
+                  0,
+                  0.9990927577018738
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "qyAac8rV8Zk.basis.glb_episode03_057_racquetball": [
+        {
+          "object_category": "057_racquetball",
+          "object_id": "057_racquetball_1051",
+          "position": [
+            0.9777622222900391,
+            -2.1811203956604004,
+            -1.3003737926483154
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.506359875202179,
+                  -2.580796957015991,
+                  -1.4434946775436401
+                ],
+                "rotation": [
+                  0,
+                  -0.8032784461975098,
+                  0,
+                  0.5956037044525146
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.6283155679702759,
+                  -2.580796957015991,
+                  -0.8407450318336487
+                ],
+                "rotation": [
+                  0,
+                  -0.319331556558609,
+                  0,
+                  0.9476430416107178
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.6309420466423035,
+                  -2.580796957015991,
+                  -1.664661169052124
+                ],
+                "rotation": [
+                  0,
+                  -0.9285088181495667,
+                  0,
+                  0.37131035327911377
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "episode_summaries": [
+        {
+          "episode_index": 0,
+          "start_target_index": 0,
+          "end_target_index": 1
+        },
+        {
+          "episode_index": 1,
+          "start_target_index": 2,
+          "end_target_index": 4
+        },
+        {
+          "episode_index": 2,
+          "start_target_index": 5,
+          "end_target_index": 6
+        },
+        {
+          "episode_index": 3,
+          "start_target_index": 7,
+          "end_target_index": 9
+        }
+      ],
+      "episode_start_agent_states": [
+        {
+          "episode_index": 0,
+          "agent_state": {
+            "position": [
+              0.6754708290100098,
+              -2.580796957015991,
+              1.3402844667434692
+            ],
+            "rotation": [
+              0,
+              -0.8625986576080322,
+              0,
+              0.5058889389038086
+            ]
+          }
+        },
+        {
+          "episode_index": 1,
+          "agent_state": {
+            "position": [
+              -0.8938299417495728,
+              -2.580796957015991,
+              2.4855611324310303
+            ],
+            "rotation": [
+              0,
+              -0.7993725538253784,
+              0,
+              0.6008356809616089
+            ]
+          }
+        },
+        {
+          "episode_index": 2,
+          "agent_state": {
+            "position": [
+              0.3018953204154968,
+              -2.580796957015991,
+              -1.0015366077423096
+            ],
+            "rotation": [
+              0,
+              -0.9999720454216003,
+              0,
+              0.0074773672968149185
+            ]
+          }
+        },
+        {
+          "episode_index": 3,
+          "agent_state": {
+            "position": [
+              -0.3835180401802063,
+              -2.580796957015991,
+              3.2977468967437744
+            ],
+            "rotation": [
+              0,
+              -0.9589123129844666,
+              0,
+              0.28370270133018494
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "episode_scene_configs": [
+    {
+      "stage": "after_episode",
+      "episode_index": 0,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_00_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 1,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_01_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 2,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_02_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 3,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_03_scene_config.json"
+    }
+  ],
+  "episode_mid_object_states": [
+    {
+      "stage": "initial",
+      "episode_index": null,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 0,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 1,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 2,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 3,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    }
+  ]
+}

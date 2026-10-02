@@ -1,0 +1,699 @@
+{
+  "task_data": {
+    "episodes": [
+      {
+        "episode_id": 0,
+        "scene_id": "hm3d/val/00824-Dd4bFSTQ8gi/Dd4bFSTQ8gi.basis.glb",
+        "scene_dataset_config": "hm3d/val/hm3d_annotated_val_basis.scene_dataset_config.json",
+        "tasks": [
+          [
+            "073-c_lego_duplo",
+            "object",
+            "Dd4bFSTQ8gi.basis.glb_episode00_073-c_lego_duplo"
+          ],
+          [
+            "065-a_cups",
+            "object",
+            "Dd4bFSTQ8gi.basis.glb_episode00_065-a_cups"
+          ],
+          [
+            "014_lemon",
+            "object",
+            "Dd4bFSTQ8gi.basis.glb_episode01_014_lemon"
+          ],
+          [
+            "012_strawberry",
+            "object",
+            "Dd4bFSTQ8gi.basis.glb_episode01_012_strawberry"
+          ],
+          [
+            "073_shampoo",
+            "object",
+            "Dd4bFSTQ8gi.basis.glb_episode02_073_shampoo"
+          ],
+          [
+            "073-c_lego_duplo",
+            "object",
+            "Dd4bFSTQ8gi.basis.glb_episode02_073-c_lego_duplo"
+          ],
+          [
+            "026_sponge",
+            "object",
+            "Dd4bFSTQ8gi.basis.glb_episode02_026_sponge"
+          ]
+        ]
+      }
+    ],
+    "goals": {
+      "Dd4bFSTQ8gi.basis.glb_episode00_073-c_lego_duplo": [
+        {
+          "object_category": "073-c_lego_duplo",
+          "object_id": "073-c_lego_duplo_1067",
+          "position": [
+            -0.6244279742240906,
+            0.5663580298423767,
+            -0.8677747845649719
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -0.14938700199127197,
+                  0.06882309913635254,
+                  -1.0237749814987183
+                ],
+                "rotation": [
+                  0,
+                  0.809938371181488,
+                  0,
+                  0.586514949798584
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -1.1217358112335205,
+                  0.06882309913635254,
+                  -1.112576961517334
+                ],
+                "rotation": [
+                  0,
+                  -0.8490129113197327,
+                  0,
+                  0.5283721089363098
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.6499293446540833,
+                  0.06882309913635254,
+                  -1.3658881187438965
+                ],
+                "rotation": [
+                  0,
+                  -0.9996729493141174,
+                  0,
+                  0.025572841987013817
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "Dd4bFSTQ8gi.basis.glb_episode00_065-a_cups": [
+        {
+          "object_category": "065-a_cups",
+          "object_id": "065-a_cups_1054",
+          "position": [
+            -2.5245025157928467,
+            0.8144404292106628,
+            7.545255661010742
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -2.2745025157928467,
+                  0.06882309913635254,
+                  7.054843425750732
+                ],
+                "rotation": [
+                  0,
+                  0.9723467826843262,
+                  0,
+                  0.23354175686836243
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -2.1709492206573486,
+                  0.06882309913635254,
+                  7.054843425750732
+                ],
+                "rotation": [
+                  0,
+                  0.9516239166259766,
+                  0,
+                  0.3072652220726013
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -2.7833216190338135,
+                  0.06882309913635254,
+                  6.579329967498779
+                ],
+                "rotation": [
+                  0,
+                  -0.9914448261260986,
+                  0,
+                  0.13052622973918915
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "Dd4bFSTQ8gi.basis.glb_episode01_014_lemon": [
+        {
+          "object_category": "014_lemon",
+          "object_id": "014_lemon_1015",
+          "position": [
+            1.2013540267944336,
+            0.9820320010185242,
+            -0.47080057859420776
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  1.1647052764892578,
+                  0.06882309913635254,
+                  0.026662081480026245
+                ],
+                "rotation": [
+                  0,
+                  -0.03676097095012665,
+                  0,
+                  0.9993240833282471
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  1.1510460376739502,
+                  0.06882309913635254,
+                  -0.9682632684707642
+                ],
+                "rotation": [
+                  0,
+                  -0.9987305402755737,
+                  0,
+                  0.0503719337284565
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.7038913369178772,
+                  0.06882309913635254,
+                  -0.42049261927604675
+                ],
+                "rotation": [
+                  0,
+                  -0.6705908179283142,
+                  0,
+                  0.7418274283409119
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "Dd4bFSTQ8gi.basis.glb_episode01_012_strawberry": [
+        {
+          "object_category": "012_strawberry",
+          "object_id": "012_strawberry_1013",
+          "position": [
+            0.19757218658924103,
+            0.8573696613311768,
+            2.3193695545196533
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.20088103413581848,
+                  0.06882309913635254,
+                  2.84253191947937
+                ],
+                "rotation": [
+                  0,
+                  0.0031623051036149263,
+                  0,
+                  0.9999949932098389
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.5647048950195312,
+                  0.06882309913635254,
+                  1.8863568305969238
+                ],
+                "rotation": [
+                  0,
+                  0.9388145208358765,
+                  0,
+                  0.3444230854511261
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  0.680535078048706,
+                  0.06882309913635254,
+                  2.4487791061401367
+                ],
+                "rotation": [
+                  0,
+                  0.6087614297866821,
+                  0,
+                  0.7933533787727356
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "Dd4bFSTQ8gi.basis.glb_episode02_073_shampoo": [
+        {
+          "object_category": "073_shampoo",
+          "object_id": "073_shampoo_1070",
+          "position": [
+            -2.2065377235412598,
+            0.9528348445892334,
+            3.1430559158325195
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -1.8852949142456055,
+                  0.06882309913635254,
+                  2.204843044281006
+                ],
+                "rotation": [
+                  0,
+                  0.9864276051521301,
+                  0,
+                  0.16419661045074463
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -1.8852949142456055,
+                  0.06882309913635254,
+                  2.6048426628112793
+                ],
+                "rotation": [
+                  0,
+                  0.9640219807624817,
+                  0,
+                  0.26582252979278564
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -1.209991693496704,
+                  0.06882309913635254,
+                  2.021942138671875
+                ],
+                "rotation": [
+                  0,
+                  0.9347216486930847,
+                  0,
+                  0.355380654335022
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "Dd4bFSTQ8gi.basis.glb_episode02_073-c_lego_duplo": [
+        {
+          "object_category": "073-c_lego_duplo",
+          "object_id": "073-c_lego_duplo_1067",
+          "position": [
+            -1.6104134321212769,
+            0.06460542231798172,
+            -1.42826247215271
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -1.5852949619293213,
+                  0.06882309913635254,
+                  -1.4005275964736938
+                ],
+                "rotation": [
+                  0,
+                  0.3597199685725602,
+                  0,
+                  0.9330603111322205
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -1.1786590814590454,
+                  0.06882309913635254,
+                  -1.3885213136672974
+                ],
+                "rotation": [
+                  0,
+                  0.6739220176817139,
+                  0,
+                  0.7388024865170716
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "Dd4bFSTQ8gi.basis.glb_episode02_026_sponge": [
+        {
+          "object_category": "026_sponge",
+          "object_id": "026_sponge_1026",
+          "position": [
+            3.3658981323242188,
+            0.9775394201278687,
+            -0.3196893632411957
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  3.2877652645111084,
+                  0.06882309913635254,
+                  -0.9951572418212891
+                ],
+                "rotation": [
+                  0,
+                  -0.9983426928520203,
+                  0,
+                  0.0575483962893486
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.4182472229003906,
+                  0.06882309913635254,
+                  -0.9951572418212891
+                ],
+                "rotation": [
+                  0,
+                  0.9992523193359375,
+                  0,
+                  0.03866330161690712
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  2.5569815635681152,
+                  0.06882309913635254,
+                  -0.9951572418212891
+                ],
+                "rotation": [
+                  0,
+                  -0.9058012366294861,
+                  0,
+                  0.4237028956413269
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "episode_summaries": [
+        {
+          "episode_index": 0,
+          "start_target_index": 0,
+          "end_target_index": 1
+        },
+        {
+          "episode_index": 1,
+          "start_target_index": 2,
+          "end_target_index": 3
+        },
+        {
+          "episode_index": 2,
+          "start_target_index": 4,
+          "end_target_index": 6
+        }
+      ],
+      "episode_start_agent_states": [
+        {
+          "episode_index": 0,
+          "agent_state": {
+            "position": [
+              -2.2979068756103516,
+              0.06882309913635254,
+              4.537628173828125
+            ],
+            "rotation": [
+              0,
+              -0.9676070213317871,
+              0,
+              0.2524612247943878
+            ]
+          }
+        },
+        {
+          "episode_index": 1,
+          "agent_state": {
+            "position": [
+              1.1355302333831787,
+              0.06882309913635254,
+              2.697812080383301
+            ],
+            "rotation": [
+              0,
+              0.6411443948745728,
+              0,
+              0.7674202919006348
+            ]
+          }
+        },
+        {
+          "episode_index": 2,
+          "agent_state": {
+            "position": [
+              -3.920017719268799,
+              0.06882309913635254,
+              2.084217071533203
+            ],
+            "rotation": [
+              0,
+              0.08669140934944153,
+              0,
+              0.996235191822052
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "episode_scene_configs": [
+    {
+      "stage": "after_episode",
+      "episode_index": 0,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_00_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 1,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_01_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 2,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_02_scene_config.json"
+    }
+  ],
+  "episode_mid_object_states": [
+    {
+      "stage": "initial",
+      "episode_index": null,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 0,
+      "requested_count": 4,
+      "placed_count": 3,
+      "placement_succeeded": false,
+      "retry_count": 10,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": [
+        {
+          "object_id": 100,
+          "semantic_id": 5001,
+          "object_handle": "chair",
+          "translation": [
+            1.3513809442520142,
+            0.553564727306366,
+            1.4635069370269775
+          ],
+          "rotation": [
+            -0.008124721236526966,
+            0.0005064325523562729,
+            -0.0006077158614061773,
+            0.9999666810035706
+          ]
+        },
+        {
+          "object_id": 101,
+          "semantic_id": 5004,
+          "object_handle": "pouffe",
+          "translation": [
+            8.01423168182373,
+            0.14805340766906738,
+            -2.7079973220825195
+          ],
+          "rotation": [
+            0.002184303943067789,
+            -8.792639710009098e-05,
+            -0.005888884887099266,
+            0.9999802708625793
+          ]
+        },
+        {
+          "object_id": 102,
+          "semantic_id": 5007,
+          "object_handle": "table",
+          "translation": [
+            6.639542102813721,
+            0.32075247168540955,
+            2.7583529949188232
+          ],
+          "rotation": [
+            0.0029852858278900385,
+            -0.00013823958579450846,
+            -0.012434525415301323,
+            0.9999182224273682
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 1,
+      "requested_count": 2,
+      "placed_count": 2,
+      "placement_succeeded": true,
+      "retry_count": 1,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": [
+        {
+          "object_id": 102,
+          "semantic_id": 5001,
+          "object_handle": "chair",
+          "translation": [
+            6.628045082092285,
+            0.42857176065444946,
+            -2.9698028564453125
+          ],
+          "rotation": [
+            0.0027908149641007185,
+            0.00016249020700342953,
+            -0.005020522978156805,
+            0.9999834895133972
+          ]
+        },
+        {
+          "object_id": 101,
+          "semantic_id": 5005,
+          "object_handle": "sofa_chair",
+          "translation": [
+            6.996952056884766,
+            0.29246923327445984,
+            5.401888370513916
+          ],
+          "rotation": [
+            -0.006010552868247032,
+            0.0010880558984354138,
+            -0.0047842636704444885,
+            0.9999698996543884
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 2,
+      "requested_count": 3,
+      "placed_count": 3,
+      "placement_succeeded": true,
+      "retry_count": 4,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": [
+        {
+          "object_id": 101,
+          "semantic_id": 5007,
+          "object_handle": "table",
+          "translation": [
+            1.6081563234329224,
+            0.31483298540115356,
+            1.7875852584838867
+          ],
+          "rotation": [
+            -0.004535119514912367,
+            -0.00010571635357337072,
+            0.0009375862427987158,
+            0.9999892711639404
+          ]
+        },
+        {
+          "object_id": 102,
+          "semantic_id": 5003,
+          "object_handle": "office_chair",
+          "translation": [
+            8.14146614074707,
+            0.3466174006462097,
+            -3.6775338649749756
+          ],
+          "rotation": [
+            0.05985148996114731,
+            -0.0005161711596883833,
+            -0.03345106914639473,
+            0.9976465106010437
+          ]
+        },
+        {
+          "object_id": 100,
+          "semantic_id": 5007,
+          "object_handle": "table",
+          "translation": [
+            6.911895751953125,
+            0.32964763045310974,
+            5.836021423339844
+          ],
+          "rotation": [
+            -0.0065726726315915585,
+            -0.0010692321229726076,
+            -0.015128310769796371,
+            0.9998633861541748
+          ]
+        }
+      ]
+    }
+  ]
+}

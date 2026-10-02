@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lisonav-benchmark"
+version = "0.1.0"
+description = "Agent independent lifelong small object navigation benchmark"
+requires-python = ">=3.9"
+dependencies = ["numpy", "Pillow"]
+
+[project.optional-dependencies]
+habitat = ["numpy-quaternion"]
+
+[project.scripts]
+lisonav-evaluate = "lisonav.run:main"
+
+[tool.setuptools.packages.find]
+include = ["lisonav*", "agents*"]

@@ -1,0 +1,709 @@
+{
+  "task_data": {
+    "episodes": [
+      {
+        "episode_id": 0,
+        "scene_id": "hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb",
+        "scene_dataset_config": "hm3d/val/hm3d_annotated_val_basis.scene_dataset_config.json",
+        "tasks": [
+          [
+            "078_magazine",
+            "object",
+            "TEEsavR23oF.basis.glb_episode00_078_magazine"
+          ],
+          [
+            "004_sugar_box",
+            "object",
+            "TEEsavR23oF.basis.glb_episode00_004_sugar_box"
+          ],
+          [
+            "073-b_lego_duplo",
+            "object",
+            "TEEsavR23oF.basis.glb_episode00_073-b_lego_duplo"
+          ],
+          [
+            "053_mini_soccer_ball",
+            "object",
+            "TEEsavR23oF.basis.glb_episode01_053_mini_soccer_ball"
+          ],
+          [
+            "065-b_cups",
+            "object",
+            "TEEsavR23oF.basis.glb_episode01_065-b_cups"
+          ],
+          [
+            "010_potted_meat_can",
+            "object",
+            "TEEsavR23oF.basis.glb_episode01_010_potted_meat_can"
+          ],
+          [
+            "077_rubiks_cube",
+            "object",
+            "TEEsavR23oF.basis.glb_episode02_077_rubiks_cube"
+          ],
+          [
+            "065-b_cups",
+            "object",
+            "TEEsavR23oF.basis.glb_episode02_065-b_cups"
+          ],
+          [
+            "065-a_cups",
+            "object",
+            "TEEsavR23oF.basis.glb_episode02_065-a_cups"
+          ]
+        ]
+      }
+    ],
+    "goals": {
+      "TEEsavR23oF.basis.glb_episode00_078_magazine": [
+        {
+          "object_category": "078_magazine",
+          "object_id": "078_magazine_1074",
+          "position": [
+            3.604714870452881,
+            0.9592970013618469,
+            -6.600868225097656
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  3.340101718902588,
+                  0.16337794065475464,
+                  -6.791214942932129
+                ],
+                "rotation": [
+                  0,
+                  -0.889930248260498,
+                  0,
+                  0.45609670877456665
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.139026165008545,
+                  0.16337794065475464,
+                  -6.549508571624756
+                ],
+                "rotation": [
+                  0,
+                  -0.6672245264053345,
+                  0,
+                  0.7448566555976868
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.340738534927368,
+                  0.16337794065475464,
+                  -6.920827865600586
+                ],
+                "rotation": [
+                  0,
+                  -0.9411062598228455,
+                  0,
+                  0.338111013174057
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode00_004_sugar_box": [
+        {
+          "object_category": "004_sugar_box",
+          "object_id": "004_sugar_box_1003",
+          "position": [
+            3.476353883743286,
+            0.8195590376853943,
+            -8.448667526245117
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  3.5332741737365723,
+                  0.16337794065475464,
+                  -8.05357551574707
+                ],
+                "rotation": [
+                  0,
+                  0.07148095220327377,
+                  0,
+                  0.9974419474601746
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.575432062149048,
+                  0.16337794065475464,
+                  -8.005901336669922
+                ],
+                "rotation": [
+                  0,
+                  0.10984998196363449,
+                  0,
+                  0.9939481616020203
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.6100549697875977,
+                  0.16337794065475464,
+                  -8.052408218383789
+                ],
+                "rotation": [
+                  0,
+                  0.1619897037744522,
+                  0,
+                  0.9867924451828003
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode00_073-b_lego_duplo": [
+        {
+          "object_category": "073-b_lego_duplo",
+          "object_id": "073-b_lego_duplo_1066",
+          "position": [
+            1.6504170894622803,
+            0.7719159126281738,
+            -7.970827579498291
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  0.5229143500328064,
+                  0.16337794065475464,
+                  -7.944550037384033
+                ],
+                "rotation": [
+                  0,
+                  -0.6988205909729004,
+                  0,
+                  0.7152970433235168
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  2.195535182952881,
+                  0.7633779048919678,
+                  -7.958707809448242
+                ],
+                "rotation": [
+                  0,
+                  0.6992039084434509,
+                  0,
+                  0.714922308921814
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  1.6331812143325806,
+                  0.7633779048919678,
+                  -7.470851898193359
+                ],
+                "rotation": [
+                  0,
+                  -0.01722903735935688,
+                  0,
+                  0.9998515844345093
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode01_053_mini_soccer_ball": [
+        {
+          "object_category": "053_mini_soccer_ball",
+          "object_id": "053_mini_soccer_ball_1048",
+          "position": [
+            3.8044846057891846,
+            0.10768324881792068,
+            -8.579415321350098
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  3.6100549697875977,
+                  0.16337794065475464,
+                  -8.052408218383789
+                ],
+                "rotation": [
+                  0,
+                  -0.1758015900850296,
+                  0,
+                  0.9844256043434143
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.6100549697875977,
+                  0.16337794065475464,
+                  -8.052408218383789
+                ],
+                "rotation": [
+                  0,
+                  -0.1758015900850296,
+                  0,
+                  0.9844256043434143
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.852202892303467,
+                  0.16337794065475464,
+                  -7.912292003631592
+                ],
+                "rotation": [
+                  0,
+                  0.03569582477211952,
+                  0,
+                  0.9993627071380615
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode01_065-b_cups": [
+        {
+          "object_category": "065-b_cups",
+          "object_id": "065-b_cups_1055",
+          "position": [
+            -3.3460421562194824,
+            0.9638391733169556,
+            -1.156427264213562
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -3.7711591720581055,
+                  0.16337794065475464,
+                  -1.3516747951507568
+                ],
+                "rotation": [
+                  0,
+                  -0.8418328762054443,
+                  0,
+                  0.5397382974624634
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -3.546513080596924,
+                  0.16337794065475464,
+                  -0.5687220692634583
+                ],
+                "rotation": [
+                  0,
+                  -0.16362658143043518,
+                  0,
+                  0.986522376537323
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -3.5804269313812256,
+                  0.16337794065475464,
+                  -0.7119491696357727
+                ],
+                "rotation": [
+                  0,
+                  -0.2402605563402176,
+                  0,
+                  0.970708429813385
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode01_010_potted_meat_can": [
+        {
+          "object_category": "010_potted_meat_can",
+          "object_id": "010_potted_meat_can_1009",
+          "position": [
+            -0.20618705451488495,
+            1.150978446006775,
+            -4.194448947906494
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -0.603917121887207,
+                  0.16337794065475464,
+                  -4.0334906578063965
+                ],
+                "rotation": [
+                  0,
+                  -0.5589556097984314,
+                  0,
+                  0.8291975855827332
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.6010488867759705,
+                  0.16337794065475464,
+                  -4.368382453918457
+                ],
+                "rotation": [
+                  0,
+                  -0.8375905752182007,
+                  0,
+                  0.5462985038757324
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -0.19069543480873108,
+                  0.16337794065475464,
+                  -3.7574682235717773
+                ],
+                "rotation": [
+                  0,
+                  0.017717400565743446,
+                  0,
+                  0.9998430609703064
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode02_077_rubiks_cube": [
+        {
+          "object_category": "077_rubiks_cube",
+          "object_id": "077_rubiks_cube_1073",
+          "position": [
+            -9.300766944885254,
+            0.5814823508262634,
+            -3.001394271850586
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  -9.273493766784668,
+                  0.16337794065475464,
+                  -2.588899612426758
+                ],
+                "rotation": [
+                  0,
+                  0.03300478309392929,
+                  0,
+                  0.9994552135467529
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -9.79936408996582,
+                  0.16337794065475464,
+                  -2.6151387691497803
+                ],
+                "rotation": [
+                  0,
+                  -0.4402182102203369,
+                  0,
+                  0.8978908061981201
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  -9.79936408996582,
+                  0.16337794065475464,
+                  -2.6151387691497803
+                ],
+                "rotation": [
+                  0,
+                  -0.4402182102203369,
+                  0,
+                  0.8978908061981201
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode02_065-b_cups": [
+        {
+          "object_category": "065-b_cups",
+          "object_id": "065-b_cups_1055",
+          "position": [
+            3.993436098098755,
+            0.8431123495101929,
+            -6.639489650726318
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  3.340101718902588,
+                  0.16337794065475464,
+                  -6.791214942932129
+                ],
+                "rotation": [
+                  0,
+                  -0.7830109596252441,
+                  0,
+                  0.6220079064369202
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.340738534927368,
+                  0.16337794065475464,
+                  -6.920827865600586
+                ],
+                "rotation": [
+                  0,
+                  -0.835413932800293,
+                  0,
+                  0.5496212244033813
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.3072128295898438,
+                  0.16337794065475464,
+                  -6.557925224304199
+                ],
+                "rotation": [
+                  0,
+                  -0.6640673875808716,
+                  0,
+                  0.7476727366447449
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "TEEsavR23oF.basis.glb_episode02_065-a_cups": [
+        {
+          "object_category": "065-a_cups",
+          "object_id": "065-a_cups_1054",
+          "position": [
+            3.044006824493408,
+            0.8207790851593018,
+            -8.621788024902344
+          ],
+          "view_points": [
+            {
+              "agent_state": {
+                "position": [
+                  3.250761032104492,
+                  0.16337794065475464,
+                  -8.027917861938477
+                ],
+                "rotation": [
+                  0,
+                  0.16672931611537933,
+                  0,
+                  0.9860026836395264
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  2.999964475631714,
+                  0.16337794065475464,
+                  -7.917957305908203
+                ],
+                "rotation": [
+                  0,
+                  -0.031241774559020996,
+                  0,
+                  0.9995118379592896
+                ]
+              }
+            },
+            {
+              "agent_state": {
+                "position": [
+                  3.1241908073425293,
+                  0.16337794065475464,
+                  -8.006430625915527
+                ],
+                "rotation": [
+                  0,
+                  0.06474202126264572,
+                  0,
+                  0.9979020357131958
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "episode_summaries": [
+        {
+          "episode_index": 0,
+          "start_target_index": 0,
+          "end_target_index": 2
+        },
+        {
+          "episode_index": 1,
+          "start_target_index": 3,
+          "end_target_index": 5
+        },
+        {
+          "episode_index": 2,
+          "start_target_index": 6,
+          "end_target_index": 8
+        }
+      ],
+      "episode_start_agent_states": [
+        {
+          "episode_index": 0,
+          "agent_state": {
+            "position": [
+              -6.165570259094238,
+              0.16337794065475464,
+              -0.7020586133003235
+            ],
+            "rotation": [
+              0,
+              -0.9982369542121887,
+              0,
+              0.05935513228178024
+            ]
+          }
+        },
+        {
+          "episode_index": 1,
+          "agent_state": {
+            "position": [
+              -4.432674884796143,
+              0.16337794065475464,
+              -0.08747896552085876
+            ],
+            "rotation": [
+              0,
+              0.9893198013305664,
+              0,
+              0.14576110243797302
+            ]
+          }
+        },
+        {
+          "episode_index": 2,
+          "agent_state": {
+            "position": [
+              -1.201417088508606,
+              0.16337794065475464,
+              -0.26426032185554504
+            ],
+            "rotation": [
+              0,
+              0.8313024640083313,
+              0,
+              0.5558203458786011
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "episode_scene_configs": [
+    {
+      "stage": "after_episode",
+      "episode_index": 0,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_00_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 1,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_01_scene_config.json"
+    },
+    {
+      "stage": "after_episode",
+      "episode_index": 2,
+      "scene_config_path": "navigation_task_pipeline/episode_scene_configs/episode_02_scene_config.json"
+    }
+  ],
+  "episode_mid_object_states": [
+    {
+      "stage": "initial",
+      "episode_index": null,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 0,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 1,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    },
+    {
+      "stage": "cycle_mid_objects",
+      "episode_index": 2,
+      "requested_count": 0,
+      "placed_count": 0,
+      "placement_succeeded": true,
+      "retry_count": 0,
+      "cleared_previous_episode_mid_count": 0,
+      "mid_objects": []
+    }
+  ]
+}
